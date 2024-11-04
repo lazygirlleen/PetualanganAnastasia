@@ -1,0 +1,20 @@
+audio/First Impression.wav
+music -
+audio/In The Darkness.wav
+music -
+audio/Your Choice.wav
+music -
+images/Village.png
+image 1792,1024
+images/anastasia.png
+image 500,500
+images/anastasiasmile.png
+image 455,455
+images/black.jpg
+image 6822,4548
+images/carrot.png
+image 500,500
+images/forest.png
+image 1792,1024
+images/white.jpg
+image 6000,4000
